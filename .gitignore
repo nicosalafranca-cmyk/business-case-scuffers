@@ -1,0 +1,17 @@
+# Contenido del repositorio: README, queries (sql/), panel (app/), cliente SQL y enunciado.
+/*
+!/.gitignore
+!/README.md
+!/sql/
+!/app/
+!/helper_sql.py
+!/prueba-tecnica-scuffers.pdf
+
+# Credenciales
+.env
+.env.local
+
+# Dependencias y compilación
+node_modules
+.next
+*.tsbuildinfo
